@@ -1,5 +1,7 @@
 # ignore ALL .log files
-.db_prop.php
+*.log
 
 # ignore ALL files in ANY directory named temp
-#temp/
+temp/
+
+db_prop.php
